@@ -134,7 +134,20 @@ img {
 
     .container{
         width: 100%;
+    }  
+} 
+/* MOBILE */
+@media screen and (max-width:480px){
+
+    .container{
+        width: 100%;
+    }  
+
+    .row .col{
+        width: 100%;
     }
 
-    
-} 
+    .row {
+        flex-direction: column;
+    }
+}

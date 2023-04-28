@@ -154,4 +154,26 @@ img {
     .margin-p-bottom{
         margin-bottom: 80px;
     }
+
+    .padding-steps{
+        padding-bottom: 3rem;
+    }
+
+
+    /* BAckground-black */
+    .background-special{
+        background-color: #222222;
+        padding-top: 50px;
+        padding-bottom: 50px;  
+    }
+    
+    .steps{
+        margin: 0px;
+    }
+    
+    .why-us{
+        margin-bottom:0px;
+    }
+    /* BAckground-black */
+
 }

@@ -150,4 +150,8 @@ img {
     .row {
         flex-direction: column;
     }
+
+    .margin-p-bottom{
+        margin-bottom: 80px;
+    }
 }
